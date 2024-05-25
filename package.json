@@ -1,5 +1,5 @@
 {
-  "name": "odin-project-todo",
+  "name": "milo-repository-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PeterMilo/odin-project-todo.git"
+    "url": "git+https://github.com/PeterMilo/milo-repository-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PeterMilo/odin-project-todo/issues"
+    "url": "https://github.com/PeterMilo/milo-repository-template/issues"
   },
-  "homepage": "https://github.com/PeterMilo/odin-project-todo#readme",
+  "homepage": "https://github.com/PeterMilo/milo-repository-template#readme",
   "devDependencies": {
     "@eslint/js": "^9.3.0",
     "css-loader": "^6.8.1",
